@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = TapToUnlock7Prefs;
+	cell = PSLinkCell;
+	detail = TapToUnlock7PrefsListController;
+	icon = icon.png;
+	isController = 1;
+	label = TapToUnlock7;
+    };
+}

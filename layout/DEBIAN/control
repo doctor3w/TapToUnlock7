@@ -1,0 +1,9 @@
+Package: com.drewsdunne.taptounlock7
+Name: TapToUnlock7
+Depends: mobilesubstrate
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: No more sliding! Just tapping!
+Maintainer: drewsdunne
+Author: drewsdunne
+Section: Tweaks
